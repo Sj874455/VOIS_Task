@@ -11,5 +11,4 @@ While adding data to queue via Node.js, access issue were encountered.
 As a workaround, data was generated into a CSV file using Node.js and the queue items were uploaded using CSV file into Orchestator.
 
 Notes-
-Sensitive info such as Client Id and other details have been removed.
 Due to system performance and time constraints, not all steps could be completed.
